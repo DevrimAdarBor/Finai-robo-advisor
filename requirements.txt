@@ -1,0 +1,14 @@
+streamlit
+yfinance
+pandas
+numpy
+scipy
+plotly
+textblob
+beautifulsoup4
+nltk
+streamlit-option-menu
+fpdf
+matplotlib
+quantstats
+feedparser
