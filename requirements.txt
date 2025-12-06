@@ -12,3 +12,4 @@ fpdf
 matplotlib
 quantstats
 feedparser
+ipython
